@@ -56,4 +56,5 @@ Precision answers what proportion of positive identifications were actually corr
 ![alt text](images/eec_imbalanced_report.png)
 
 ## Summary
+Overall, the model the performed the best with the dataset is the Easy Ensemble Classifier. This classifier produced a balanced accuracy score of 92.54%, a precision score of 99%, and a recall score of 94%. The precision score was fairly standard across all of the models, but the other two scores were the highest by far. Of all six of the models used, the Easy Ensemble Classifier is my recommendation when running tests like this in the future. 
 
