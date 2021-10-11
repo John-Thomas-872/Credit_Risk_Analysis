@@ -6,6 +6,8 @@ Using the credit card credit data set from LendingClub, a peer-to-peer lending s
 
 ## Results
 
+To predict the credit risk of the data, we will use 6 different models. For each of the models, we will evaluate the results. The results for each model below are the balanced accuracy score, the precision and the recall. The balanced accuracy score is found by adding the sensitivity and the specificity together and dividing by 2. Sensitivity is number of True Positive results divided by the True Positive and False Negative results added together. The specificity score is the number of True Negative results divided by the number of False Positives plus the True Negatives. (See image below for more explanation.) 
+
 1.) Oversampling - Naive Random Oversampling
 
 ![alt text](images/naive_random_oversampling_balanced_accuracy.png)
