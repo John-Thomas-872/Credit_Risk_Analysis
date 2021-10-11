@@ -14,6 +14,7 @@ Using the credit card credit data set from LendingClub, a peer-to-peer lending s
 2.) SMOTE Oversampling
 
 ![alt text](images/smote_balanced_accuracy.png)
+
 ![alt text](iamges/smote_imbalanced_report.png)
 
 3.) Undersampling
@@ -29,6 +30,7 @@ Using the credit card credit data set from LendingClub, a peer-to-peer lending s
 5.) Balanced Random Forest Classifier
 
 ![alt text](images/brfc_balanced_accuracy.png)
+
 ![alt text](images/brfc_imbalanced_report.png)
 
 6.) Easy Ensemble AdaBoost Classifier
