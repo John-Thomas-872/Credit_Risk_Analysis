@@ -16,7 +16,9 @@ Balanced accuracy is a metric that one can use when evaluating how good a binary
 
 Recall and Precision and found in very similar ways to sensitivity and specificity. 
 Recall answers what proportion of actual positive responses were identified correctly. 
+![image](images/recall.png)
 Precision answers what proportion of positive identifications were actually correct. 
+![image](images/precision.png)
 
 
 
