@@ -7,16 +7,28 @@ Using the credit card credit data set from LendingClub, a peer-to-peer lending s
 ## Results
 
 1.) Oversampling - Naive Random Oversampling
+![alt text](images/naive_random_oversampling_balanced_accuracy)
+![alt text](images/naive_random_oversampling_imbalanced_report)
 
 2.) SMOTE Oversampling
+![alt text](images/smote_balanced_accuracy)
+![alt text](iamges/smote_imbalanced_report)
 
 3.) Undersampling
+![alt text](images/undersampling_balanced_accuracy)
+![alt text](images/undersampling_imbalanced_report)
 
 4.) Combination Sampling
+![alt text](images/combination_balanced_accuracy)
+![alt text](images/combination_imbalanced_report)
 
 5.) Balanced Random Forest Classifier
+![alt text](images/brfc_balanced_accuracy)
+![alt text](images/brfc_imbalanced_report)
 
 6.) Easy Ensemble AdaBoost Classifier
+![alt text](images/eec_balanced_accuracy)
+![alt text](images/eec_imbalanced_report)
 
 ## Summary
 
