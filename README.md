@@ -12,6 +12,12 @@ To predict the credit risk of the data, we will use 6 different models. For each
 
 ![image](images/balanced_accuracy.png)
 
+Balanced accuracy is a metric that one can use when evaluating how good a binary classifier is. It is especially useful when the classes are imbalanced, i.e. one of the two classes appears a lot more often than the other. This happens often in many settings such as anomaly detection and the presence of a disease.
+
+Recall and Precision and found in very similar ways to sensitivity and specificity. 
+Recall answers what proportion of actual positive responses were identified correctly. 
+Precision answers what proportion of positive identifications were actually correct. 
+
 
 
 1.) Oversampling - Naive Random Oversampling
